@@ -20,7 +20,7 @@
 }
 
 body {
-  color: #F5EBEB;
+  color: #867070;
   font-family: 'Open Sans', sans-serif;
   margin: 0;
   min-height: 100vh;
@@ -195,7 +195,7 @@ header nav ul li a:hover {
 /* REACH OUT STYLES START */
 #reach-out {
   /* margin-top: 5px; */
-  background: #E4D0D0;
+  background: #F5EBEB;
 }
 
 #reach-out h2 {
@@ -246,7 +246,7 @@ header nav ul li a:hover {
 .contact-form button {
   width: 100%;
   border: none;
-  background: #F2E3D5;
+  background: #D5B4B4;
   color: #867070;
   text-align: center;
   padding: 15px 0;
@@ -300,7 +300,7 @@ header nav ul li a:hover {
 }
 
 .contact-info a:hover {
-  color: #F5EBEB;
+  color: #D5B4B4;
   transition: .5s ease;
 }
 
@@ -310,7 +310,7 @@ header nav ul li a:hover {
 /*Start Jobs section*/
 
 .jobs {
-  background: #E4D0D0;
+  background: #F5EBEB;
 
 }
 
@@ -563,11 +563,11 @@ footer div {
 }
 
 footer a {
-  color: #75BFB2;
+  color: #F5EBEB;
 }
 
 footer a:hover {
-  color: #328C83;
+  color: #F5EBEB;
   transition: .5s ease;
 }
 
@@ -575,12 +575,12 @@ footer a:hover {
   cursor: pointer;
   list-style: none;
   font-size: 40px;
-  color: #0E5259;
+  color: #D5B4B4;
   display: inline-block;
 }
 
 .logo:hover {
-  color: #328C83;
+  color: #643843;
   opacity: 0.5;
   transition: .5s ease;
 }
