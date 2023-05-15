@@ -31,7 +31,7 @@ function App() {
   return (
     <>
       <Helmet>
-        <title>Lindsey Martin's Portfolio | {currentTab} </title>
+        <title>Christina Barberi's Portfolio | {currentTab} </title>
       </Helmet>
       ;
       <Header
