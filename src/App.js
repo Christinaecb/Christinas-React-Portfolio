@@ -3,7 +3,7 @@ import Header from "../src/components/Header/index";
 import About from "../src/components/About/index";
 import Contact from "../src/components/Contact/index";
 import Portfolio from "../src/components/Portfolio";
-//import Resume from "../src/components/Resume";
+import Resume from "../src/components/Resume";
 import Footer from "../src/components/Footer/index";
 import { Helmet } from "react-helmet";
 import "./App.css";
