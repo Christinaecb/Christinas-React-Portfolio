@@ -75,7 +75,7 @@ header a {
 }
 
 header nav {
-  margin: 7px 0;
+  margin: 10px 0;
 }
 
 header nav ul {
@@ -759,3 +759,43 @@ label {
 
 
 }
+
+@media (max-width: 372px) {
+  .job-img {
+    margin-right: auto; /* Center the image */
+    margin-left: auto; /* Center the image */
+  }
+}
+
+@media (max-width: 475px) {
+  .job-img {
+    margin-right: auto; /* Center the image */
+    margin-left: auto; /* Center the image */
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1024px) {
+  .job-img {
+    margin-right: auto; /* Center the image */
+    margin-left: auto; /* Center the image */
+  }
+}
+
+@media only screen and (min-width: 540px) and (max-width: 720px) {
+  .job-img {
+    margin-right: auto; /* Center the image */
+    margin-left: auto; /* Center the image */
+  }
+}
+
+@media only screen and (max-width: 1024px) and (min-width: 600px) {
+  .job-img {
+    margin-right: 20px; /* Adjust the margin as per your requirement */
+    margin-left: 0;
+  }
+  
+  .job-text {
+    margin-left: 20px; /* Adjust the margin as per your requirement */
+  }
+}
+
