@@ -1,10 +1,11 @@
 {
   "files": {
     "main.css": "/Christinas-React-Portfolio/static/css/main.72e23003.css",
-    "main.js": "/Christinas-React-Portfolio/static/js/main.4c8fd8b9.js",
+    "main.js": "/Christinas-React-Portfolio/static/js/main.ef1b4e9d.js",
     "static/js/787.95539e99.chunk.js": "/Christinas-React-Portfolio/static/js/787.95539e99.chunk.js",
     "static/media/grogu.png": "/Christinas-React-Portfolio/static/media/grogu.497d6295a7672d3e30da.png",
     "static/media/Nomad-Nebula.png": "/Christinas-React-Portfolio/static/media/Nomad-Nebula.ddaf3fdd971ad736bedd.png",
+    "static/media/Shadow.jpg": "/Christinas-React-Portfolio/static/media/Shadow.28e77c4f233356890157.jpg",
     "static/media/ProfilePic.jpg": "/Christinas-React-Portfolio/static/media/ProfilePic.30cefb6577b7821ef3d5.jpg",
     "static/media/Christina-Barberi-Resume.pdf": "/Christinas-React-Portfolio/static/media/Christina-Barberi-Resume.cddbda748d8c7f0fd9c3.pdf",
     "static/media/Coding-Quiz.jpg": "/Christinas-React-Portfolio/static/media/Coding-Quiz.167f0f42f29cd41a3093.jpg",
@@ -15,11 +16,11 @@
     "static/media/Text-Editor.png": "/Christinas-React-Portfolio/static/media/Text-Editor.6be8dad11b462843d329.png",
     "index.html": "/Christinas-React-Portfolio/index.html",
     "main.72e23003.css.map": "/Christinas-React-Portfolio/static/css/main.72e23003.css.map",
-    "main.4c8fd8b9.js.map": "/Christinas-React-Portfolio/static/js/main.4c8fd8b9.js.map",
+    "main.ef1b4e9d.js.map": "/Christinas-React-Portfolio/static/js/main.ef1b4e9d.js.map",
     "787.95539e99.chunk.js.map": "/Christinas-React-Portfolio/static/js/787.95539e99.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.72e23003.css",
-    "static/js/main.4c8fd8b9.js"
+    "static/js/main.ef1b4e9d.js"
   ]
 }
