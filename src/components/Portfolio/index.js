@@ -31,7 +31,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Work Day Scheduler</h4>
               <p>
-               info here
+              In this assignment we are creating a daily planner that displays the current day and any events planned for that day. Here we'll be able to colour code past, present and future events, select certain time blocks and create a new event, save new events for that time block and insure that new time events stay after refreshing the page!
               </p>
             </div>
           </div>
@@ -53,7 +53,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Text Editor</h4>
               <p>
-                Info here{" "}
+              This is a basic text editing tool that can be accessed without an internet connection. It's designed as a Progressive Web App (PWA) and can be installed on your device. The application utilizes IndexedDB to save data locally, webpack to bundle files, and service workers to store files in cache for offline access.{" "}
               </p>
             </div>
           </div>
@@ -75,7 +75,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Team Profile Generator</h4>
               <p>
-                info here.{" "}
+              This is a Node.js command-line application that takes in information about employees on a software engineering team and generates an HTML webpage that displays summaries for each person.{" "}
               </p>
             </div>
           </div>
@@ -97,8 +97,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Note Taker</h4>
               <p>
-                An application that provides the user the ability to add new
-                notes, and to delete notes.{" "}
+              This application is a note taking application utilizing Express.js as the back end and will save and retrieve the note data from a JSON file.{" "}
               </p>
             </div>
           </div>
@@ -120,7 +119,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Nomad Nebula</h4>
               <p>
-                Nomad Nebula info.{" "}
+                Nomad Nebula is an interactive full-stack web application that serves as a stargazing companion and social platform for stargazers. Users can discover stars and planets visible in the night sky in their area, get daily updates on stargazing and visibility conditions, create and manage their profiles, view and interact with posts from other stargazers on the community page, and access detailed information about their zodiac signs.{" "}
               </p>
             </div>
           </div>
@@ -142,7 +141,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Employee Tracker</h4>
               <p>
-                Employee Tracker info.{" "}
+              This is a command-line application that allows a company to manage its employee database. The application is built using Node.js, Inquirer, MySQL, and console.table/Chalk for styling.{" "}
               </p>
             </div>
           </div>
@@ -164,7 +163,7 @@ function Portfolio() {
             <div className="job-text">
               <h4>Coding Quiz</h4>
               <p>
-                Info about coding quiz{" "}
+              Welcome to THE online quiz app! To start the quiz, please select the start button. From there you will be asked a series of questions with multiple choice answers. You must answer each question correctly or else time will be deducted from the timer! UH OH, no pressure! Once you answer all the questions, or the timer reaches 0 the game is over. Please enter you initials after to save your score! Thank you!{" "}
               </p>
             </div>
           </div>
