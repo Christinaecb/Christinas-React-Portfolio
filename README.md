@@ -14,7 +14,7 @@ This portfolio showcases my projects and is built as a single-page application u
 * [Owner](#Owner)
 
 ## Deployed Application
-You can then navigate to https://christinaecb.github.io/Christinas-React-Portfolio/ in your browser to use the application.
+Please navigate to https://christinaecb.github.io/Christinas-React-Portfolio/ in your browser to see my application!
 
 
 ## Screenshot:
