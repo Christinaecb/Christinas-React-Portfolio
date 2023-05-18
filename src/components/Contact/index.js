@@ -62,11 +62,11 @@ function Contact() {
           <p>Want to get into contact?</p>
           <address>
             London, ON <br />
-            P: <a href="tel:226.972.0611">226.972.0611</a>
+            P: <a href="tel:555.555.5555">555.555.5555</a>
             <br />
             E:{" "}
-            <a href="mailto://christina.e.c.barberi@gmail.com">
-            christina.e.c.barberi@gmail.com
+            <a href="mailto://testemail@gmail.com">
+            testemail@gmail.com
             </a>
           </address>
           <p>
