@@ -6,7 +6,7 @@ import { FaInstagram } from "react-icons/fa";
 function Footer() {
   return (
     <footer>
-      <h2>Made by Christina Barberi©</h2>
+      <h2>Made by Christina B©</h2>
       <p>
         <ul>
           <a href="https://github.com/Christinaecb">
